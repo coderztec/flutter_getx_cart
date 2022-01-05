@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Navy Twill - Double Breasted",
+    "category": "Sport Coat",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackaySS21_67G04-741-15_28746-difabio-t.jpg",
+    "oldPrice": "0",
+    "price": "448"
+  },
+  {
+    "id": 1,
+    "name": "Chocolate Hopsack - Nepolitan Cut",
+    "category": "Sport Coat",
+    "oldPrice": "378",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackay21SS-G027-610-136_27055-Edit-chocolate-hopsack-t.jpg",
+    "price": "328"
+  },
+  {
+    "id": 2,
+    "name": "Cigar Linen - Nepolitian Cut",
+    "category": "Sport Coat",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackay-SS21-linensportcoats_JS-2591_36851-Edit-t-updated.jpg",
+    "oldPrice": "298",
+    "price": "248"
+  },
+  {
+    "id": 4,
+    "name": "Brown Gun Check - Nepolitan Cut",
+    "category": "Sport Coat",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackaySS21_24-37-18-2_29164-Edit.jpg",
+    "oldPrice": "448",
+    "price": "378"
+  },
+  {
+    "id": 5,
+    "name": "Rust Linen - Field Jacket",
+    "category": "Jacket",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackay2021SS_SAF-120_32972-t.jpg",
+    "oldPrice": "0",
+    "price": "228"
+  },
+  {
+    "id": 6,
+    "name": "Cream Linen - Safari Jacket",
+    "category": "Jacket",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackay2021SS_White-Linen-Safari-Jacket_33178-t.jpg",
+    "oldPrice": "0",
+    "price": "248"
+  },
+  {
+    "id": 7,
+    "name": "Boho Bangle Bracelet",
+    "category": "Women",
+    "imageUrl": "https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory1.jpg",
+    "oldPrice": "0",
+    "price": "130"
+  },
+  {
+    "id": 8,
+    "name": "Blue Birdseye - Peak Lapel",
+    "category": "Sport Coat",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackaySS21-6748F--6_28829-t_updated.jpg",
+    "oldPrice": "348",
+    "price": "278"
+  },
+  {
+    "id": 9,
+    "name": "Light Brown Check",
+    "category": "Sport Coat",
+    "imageUrl": "https://www.spierandmackay.com/files/catalog/PRODUCT_IMAGES/SpierAndMackay21SS_F027-741-01_27873-brown-check-drago-t.jpg",
+    "oldPrice": "0",
+    "price": "550"
+  }
+]
